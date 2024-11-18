@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import openai
+
 
 # Set Streamlit page configuration
 st.set_page_config(page_title="Fashion Sales Dashboard", page_icon="🛍️", layout="wide")
